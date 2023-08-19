@@ -1,19 +1,3 @@
-  438  cd Checkpoint_Ailin/
-  439  git clone https://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@github.com/ailindoor/Checkpoint-AilinDoriaOrozco.git
-  440  cd Checkpoint-AilinDoriaOrozco/
-  441  touch main.js index.html
-  442  git add .
-  443  git commit -m "commit 01 de AilinDoriaOrozco"
-  444  git push -u origin master
-  445  git push -u origin master
-  446  git pull master
-  447  git pull origin master
-  448  git pull --rebase origin
-  449  mkdir checkpointAilin
-  450  cd checkpointAilin/
-  451  mkdir checkpointAilin
-  452  cd checkpointAilin/
-  453  git clone https://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@github.com/ailindoor/Checkpoint-AilinDoriaOrozco.git
   454  cd Checkpoint-AilinDoriaOrozco/
   455  touch main.js index.html
   456  git add .
@@ -38,3 +22,9 @@
   475  nano resumenSoftware.txt 
   476  nano resumenHardware.txt 
   477  history 40 > comandos.txt
+  478  git add .
+  479  git commit -m "commit 03 AilinDoriaOrozco"
+  480  git push 
+  481  git push
+  482  rm comandos.txt 
+  483  history 30 > comandos.txt  
